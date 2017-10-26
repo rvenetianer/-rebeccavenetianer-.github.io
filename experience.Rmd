@@ -1,0 +1,45 @@
+---
+title: "Experience"
+output: html_document
+---
+
+&nbsp;
+
+### Columbia University Mailman School of Public Health
+#### Research Intern
+##### New York, New York
+##### Summer 2016
+- Collaborated with principle investigator and participating members of the LEGACY Girls Study, a cohort study on breast cancer risk in women and young girls
+- Created code and analyzed data using Stata and SAS, and aided in grant writing and manuscript submissions
+- Performed literature reviews regarding environmental exposures and pubertal timing, specifically related to the occurrence of breast cancer
+
+&nbsp;
+
+### 7 Elements
+#### Research Intern
+##### Las Cañas, Dominican Republic
+##### Summer 2015 
+- Collaborated with three students on design and analysis of a case-control study of Type II diabetes in Dominican and Haitian citizens living in the Dominican Republic
+- Utilized SAS to visually and analytically explore data and conduct a formal research paper
+
+#### Research Intern
+##### Las Cañas, Dominican Republic
+##### Summer 2013 - Summer 2014
+- Developed and implemented a plan for the creation of medical clinics in villages and assisted doctors in providing basic care to patients
+- Utilized Timmy Care medical management software, to accurately and efficiently record and analyze patient health statistics
+
+&nbsp;
+
+### Comprehensive Rural Health Project
+#### Public Health Practicum
+##### Jamkhed, India
+##### January 2015
+- Assisted in the training and empowerment of village health workers in detection of physical and mental health issues
+- Gathered data for a retrospective epidemiological study on tuberculosis, maternal health, and child health issues
+
+&nbsp;
+
+### Skills
+- Skilled in SAS, SPSS, Stata, and R statistical software
+- Proficient in Microsoft Word, Excel, and PowerPoint, and Adobe Bridge, Photoshop and InDesign
+
